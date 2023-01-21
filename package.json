@@ -1,0 +1,24 @@
+{
+  "name": "floating-ui-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "floating ui",
+    "tooltips",
+    "popovers",
+    "positioning-engine",
+    "positioning",
+    "tooltip-position",
+    "dropdown"
+  ],
+  "author": "Mohammad Hossein Moradi",
+  "license": "MIT",
+  "dependencies": {
+    "@floating-ui/react": "^0.18.0",
+    "react": "^18.2.0"
+  }
+}
